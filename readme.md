@@ -1,5 +1,6 @@
 # ARMA CS - [Downloads](https://github.com/maca134/armacs/releases)
 This is an extension/mod that will allow you to compile/run C# on the fly to ease rapid development of a c# ARMA extension
+Please also check out [ARMAExtCS](https://github.com/maca134/ARMAExtCS) for more info on making actual extensions in c# for ARMA.
 
 The mod has only 2 functions:
 
