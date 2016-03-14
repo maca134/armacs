@@ -24,7 +24,7 @@ class Startup {
 ```
 
 - All paths starting `.\` will be relative to ARMACS.dll
-- Additional libraries can be loaded as follows: `#r ".\lib.dll"` or `#r "c:\path\to\lib.dll`
+- Additional libraries can be loaded as follows: `#r ".\lib.dll"` or `#r "c:\path\to\lib.dll` or `#r "System.Data.dll"`
 - Output is set to 10k
 - If you use this on clients, DISABLE BATTLEYE!
 
