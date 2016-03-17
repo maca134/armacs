@@ -1,6 +1,0 @@
-syntax: glob
-project/ARMACSConsole/bin/*
-project/ARMACSConsole/obj/*
-project/packages/*
-project/ARMACS/obj/*
-project/ARMACS/bin/*
